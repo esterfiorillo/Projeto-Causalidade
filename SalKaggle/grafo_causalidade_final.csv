@@ -1,0 +1,9 @@
+,node1,term_node1,term_node2,node2
+0,amplitude,CIRCLE,CIRCLE,envelope
+1,distborda,CIRCLE,ARROW,frequencia
+2,fase,CIRCLE,ARROW,distborda
+3,distBorda,CIRCLE,ARROW,salt_mask_error
+4,desvioP,CIRCLE,ARROW,salt_mask
+5,desvioP,CIRCLE,ARROW,semblance
+6,semblance,CIRCLE,CIRCLE,frequencia
+7,envelope,CIRCLE,ARROW,salt_mask
